@@ -1,9 +1,8 @@
 
-  # README generator
+  # ryan
 
   ## Table of contents
 
-  ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
 - [Contributors](#Contributors)
@@ -11,21 +10,21 @@
 - [Repository](#Repository)
 - [GitHub Info](#GitHub)
 
-  ##Description
+  ## Description
 
-  creates a professional README file using NODE.JS
+  blah blah blah
 
-  ##Installation 
+  ## Installation 
 
-  something something something
+  blaaaah
 
   ##Contributors
 
-  Ryan Brown
+  something
 
-  ##License
+  ## License
 
-  MIT
+  mit
 
   ## Repository
 
