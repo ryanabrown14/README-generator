@@ -1,5 +1,5 @@
 
-  # ryan
+  # README generator
 
   ## Table of contents
 
@@ -12,19 +12,19 @@
 
   ## Description
 
-  blah blah blah
+  This project uses NODE.JS to create a Professional README file.  After answering the Questions in the terminal it translates your answers into a markdown based README
 
   ## Installation 
 
-  blaaaah
+  First you need to clone the master Repo from GitHub. second you must install inquerer using NPM istall.  and lastly you must run index.js by running node index from the terminal.
 
   ##Contributors
 
-  something
+  Ryan Brown
 
   ## License
 
-  mit
+  MIT
 
   ## Repository
 
