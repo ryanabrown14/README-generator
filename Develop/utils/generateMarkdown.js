@@ -20,7 +20,7 @@ function generateMarkdown(data) {
 
   ${data.installation}
 
-  ##Contributors
+  ## Contributors
 
   ${data.contributors}
 

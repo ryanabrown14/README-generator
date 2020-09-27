@@ -17,7 +17,7 @@
 
   First you need to clone the master Repo from GitHub. second you must install inquerer using NPM istall.  and lastly you must run index.js by running node index from the terminal.
 
-  ##Contributors
+  ## Contributors
 
   Ryan Brown
 
