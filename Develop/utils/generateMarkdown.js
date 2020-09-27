@@ -3,28 +3,39 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-  ##Description
+  ## Table of contents
+
+- [Description](#Description)
+- [Installation](#Installation)
+- [Contributors](#Contributors)
+- [Licence](#Licence)
+- [Repository](#Repository)
+- [GitHub Info](#GitHub)
+
+  ## Description
 
   ${data.description}
 
-  ##Installation 
+  ## Installation 
 
   ${data.installation}
 
   ##Contributors
 
-  
+  ${data.contributors}
 
-  ##License
+  ## License
 
-  ${license}
+  ${data.license}
 
   ## Repository
 
+  For the Repo please visit https://github.com/${data.username}/${data.repo}
 
   ## GitHub
 
   ${data.username}
+  If you have any questions please contatact https://github.com/${data.username} 
 
 
 

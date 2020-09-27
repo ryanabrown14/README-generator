@@ -20,8 +20,18 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'contributors',
+        message: 'Please list all contributors on this project.'
+    }, 
+    {
+        type: 'input',
         name: 'username',
         message: 'What is your Github Username?'
+    },
+    {
+        type: 'input',
+        name: 'repo',
+        message: 'What is name of your github Repo? (ie. README-generator)'
     },
     {
         type: 'input',
